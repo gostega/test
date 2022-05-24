@@ -24,10 +24,10 @@
   weight: 1
 
 - name: Golang
-  weight: 1
+  weight: 2
 
 - name: SQL
-  weight: 1
+  weight: 2
 
 - name: Python
   weight: 1
