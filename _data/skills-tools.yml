@@ -32,5 +32,5 @@
 - name: Hyper-V
   weight: 3
 
-- name: Proxmox VE/BS
+- name: Proxmox VE
   weight: 4
