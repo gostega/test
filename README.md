@@ -1,1 +1,1 @@
-testing out a jekyll theme
+testing jekyll theme
