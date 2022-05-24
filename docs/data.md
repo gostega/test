@@ -20,7 +20,7 @@ Example of a project:
     - tag: Node
 ```
 
-## skills-frameworks.yml
+## skills-technologies.yml
 
 * `name`: Name of your framework
 * `weight`: Describes how good you know the framework - values from 1 up to 5
