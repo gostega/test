@@ -5,38 +5,37 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: Bash
   weight: 5
 
-- name: JavaScript
-  weight: 4
+- name: Powershell
+  weight: 5
 
-- name: Python
-  weight: 2
+- name: Batch/CMD
+  weight: 3
+
+- name: VBscript
+  weight: 3
+
+- name: Markdown
+  weight: 3
 
 - name: HTML5
-  weight: 4
-
-- name: CSS3
-  weight: 3
-
-- name: SASS
-  weight: 3
-
-- name: Java
   weight: 1
 
-- name: Dart
+- name: Golang
   weight: 1
 
-- name: Swift
+- name: SQL
   weight: 1
 
-- name: Kotlin
+- name: Python
   weight: 1
+# - name: Kotlin
+#   weight: 1
 
-- name: C++
-  weight: 2
+# - name: C++
+#   weight: 2
 
-- name: Ruby
-  weight: 2
+# - name: Ruby
+#   weight: 2

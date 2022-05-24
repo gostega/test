@@ -17,45 +17,70 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Element Engineering
+  title-url: https://www.elementengineering.com.au
+  date: Jul 2020 - Present
+  subtitle: IT Administrator and DevOps Software Engineer
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Ansible
+    - tag: Terraform
+    - tag: Gitlab
+    - tag: Proxmox VE
+    - tag: Ubiquiti
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: John Septimus Roe Anglican Community School
+  title-url: https://www.jsracs.wa.edu.au
+  date: Nov 2011 - Jul 2020
+  subtitle: Systems and Network Administrator
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: IT Department Manager
+    - tag: Hyper-V
+    - tag: Active Directory
+    - tag: Cisco switching
+    - tag: Aerohive wireless
+    - tag: Dell hyper-converged
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: CSC - Western Power
+  title-url: https://www.westernpower.com.au/
+  date: Sep 2011 - Oct 2011
+  subtitle: SOE Upgrade Team 2IC
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: CSC - Western Power
+  title-url: https://www.westernpower.com.au/
+  date: Jul 2011 - Nov 2011
+  subtitle: Remote Support Engineer
+  timeline-side: left
+
+- title: CSC - Western Power contract
+  title-url: https://www.westernpower.com.au/
+  date: Oct 2010 - Jul 2011
+  subtitle: SOE Upgrade Technician
+    - tag: travel
+    - tag: night shifts
+    - tag: project work
+  timeline-side: left
+
+- title: CSC - Western Power
+  title-url: https://www.westernpower.com.au/
+  date: Sep 2010
+  subtitle: Build Team - 1 month internship
+  timeline-side: left
+
+- title: Australian Institute of Commerce + Technology
+  title-url: http://aict.wa.edu.au/
+  date: June 2010 - Sep 2010
+  subtitle: Direct 2 IT - Server Administrator
   tags:
     - tag: React
     - tag: Node
     - tag: Javascript
   timeline-side: right
 
-- title: Super University
+- title: University of Western Australia
   title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  date: 2006 - 2009
+  subtitle: B.Sc. Computer Science - Software Engineering/Mandarin
   timeline-side: left

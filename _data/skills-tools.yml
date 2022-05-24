@@ -6,31 +6,31 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
-
-- name: Bash
-  weight: 3
-
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
   weight: 4
 
-- name: VS Code
+- name: Docker/compose
+  weight: 4
+
+- name: Gitlab CI/CD
   weight: 3
 
-- name: Postman
+- name: Ansible
+  weight: 3
+
+- name: Terraform
+  weight: 2
+
+- name: Nginx
+  weight: 2
+
+- name: fio
+  weight: 2
+
+- name: papertrailapp/syslog
+  weight: 2
+
+- name: Hyper-V
+  weight: 3
+
+- name: Proxmox VE/BS
   weight: 4
