@@ -17,10 +17,10 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Element Engineering Australia
+- title: IT Administrator and DevOps Software Engineer
   title-url: https://www.elementengineering.com.au
   date: Jul 2020 - Present
-  subtitle: IT Administrator and DevOps Software Engineer
+  subtitle: Element Engineering Australia
   tags:
     - tag: Ansible
     - tag: Terraform
@@ -29,10 +29,10 @@
     - tag: Ubiquiti
   timeline-side: right
 
-- title: John Septimus Roe Anglican Community School
+- title: Systems and Network Administrator
   title-url: https://www.jsracs.wa.edu.au
   date: Nov 2011 - Jul 2020
-  subtitle: Systems and Network Administrator
+  subtitle: John Septimus Roe Anglican Community School
   tags:
     - tag: IT Department Manager
     - tag: Hyper-V
