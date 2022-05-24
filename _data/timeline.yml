@@ -17,7 +17,7 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Element Engineering
+- title: Element Engineering Australia
   title-url: https://www.elementengineering.com.au
   date: Jul 2020 - Present
   subtitle: IT Administrator and DevOps Software Engineer
@@ -40,48 +40,58 @@
     - tag: Cisco switching
     - tag: Aerohive wireless
     - tag: Dell hyper-converged
-  timeline-side: right
+  timeline-side: left
 
-- title: CSC - Western Power
+- title: SOE Upgrade Team 2IC
   title-url: https://www.westernpower.com.au/
   date: Sep 2011 - Oct 2011
-  subtitle: SOE Upgrade Team 2IC
-  timeline-side: left
+  subtitle: CSC - Western Power
+  timeline-side: right
 
-- title: CSC - Western Power
+- title: Remote Support Engineer
   title-url: https://www.westernpower.com.au/
   date: Jul 2011 - Nov 2011
-  subtitle: Remote Support Engineer
-  timeline-side: left
+  subtitle: CSC - Western Power
+  timeline-side: right
 
-- title: CSC - Western Power contract
+- title: SOE Upgrade Technician
   title-url: https://www.westernpower.com.au/
   date: Oct 2010 - Jul 2011
-  subtitle: SOE Upgrade Technician
+  subtitle: CSC - Western Power contract
   tags:
     - tag: travel
     - tag: night shifts
     - tag: project work
-  timeline-side: left
+  timeline-side: right
 
-- title: CSC - Western Power
+- title: Build Team - 1 month internship
   title-url: https://www.westernpower.com.au/
   date: Sep 2010
-  subtitle: Build Team - 1 month internship
-  timeline-side: left
+  subtitle: CSC - Western Power
+  timeline-side: right
 
-- title: Australian Institute of Commerce + Technology
+- title: Direct 2 IT - Server Administrator
   title-url: http://aict.wa.edu.au/
-  date: June 2010 - Sep 2010
-  subtitle: Direct 2 IT - Server Administrator
+  date: Jun 2010 - Sep 2010
+  subtitle: Australian Institute of Commerce + Technology
   tags:
     - tag: React
     - tag: Node
     - tag: Javascript
+  timeline-side: left
+
+- title: Senior Service Technician
+  title-url: http://www.pcpro.com.au
+  date: Jul 2009 - Jun 2010
+  subtitle: CSC - Western Power
+  tags:
+    - tag: travel
+    - tag: night shifts
+    - tag: project work
   timeline-side: right
 
 - title: University of Western Australia
-  title-url: https://example.com/
-  date: 2006 - 2009
-  subtitle: B.Sc. Computer Science - Software Engineering/Mandarin
-  timeline-side: left
+  title-url: https://www.uwa.edu.au/schools/physics-mathematics-computing/department-of-computer-science-and-software-engineering
+  date: 2006 - Jun 2009
+  subtitle: B.Sc. Computer Science - Software Engineering
+  timeline-side: right

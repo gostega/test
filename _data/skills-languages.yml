@@ -9,7 +9,7 @@
   weight: 5
 
 - name: Powershell
-  weight: 5
+  weight: 4
 
 - name: Batch/CMD
   weight: 3
