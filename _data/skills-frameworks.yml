@@ -26,6 +26,18 @@
 - name: Windows Server
   weight: 3
 
+- name: Cloudflare
+  weight: 3
+
+- name: AWS S3
+  weight: 2
+
+- name: AWS EC2
+  weight: 2
+
+- name: AWS Route53
+  weight: 2
+
 - name: Microsoft 365
   weight: 3
 
