@@ -24,9 +24,14 @@
   tags:
     - tag: Ansible
     - tag: Terraform
-    - tag: Gitlab
+    - tag: Gitlab CI/CD
     - tag: Proxmox VE
     - tag: Ubiquiti
+    - tag: Bash
+    - tag: cloudinit
+    - tag: Nginx
+    - tag: Docker
+    - tag: Docker compose
   timeline-side: right
 
 - title: Systems and Network Administrator
@@ -40,6 +45,15 @@
     - tag: Cisco switching
     - tag: Aerohive wireless
     - tag: Dell hyper-converged
+    - tag: Group Policy
+    - tag: DFS
+    - tag: ADFS
+    - tag: Starwind
+    - tag: CCTV coverage design
+    - tag: Project management
+    - tag: Covid19 remote work transition
+    - tag: Windows Server
+    - tag: Palo Alto, cyber security
   timeline-side: left
 
 - title: SOE Upgrade Team 2IC
@@ -59,9 +73,12 @@
   date: Oct 2010 - Jul 2011
   subtitle: CSC - Western Power contract
   tags:
-    - tag: travel
-    - tag: night shifts
-    - tag: project work
+    - tag: Travel
+    - tag: Night shifts
+    - tag: SCCM
+    - tag: SOE refresh
+    - tag: Quotas
+    - tag: Project work
   timeline-side: right
 
 - title: Build Team - 1 month internship
@@ -83,11 +100,13 @@
 - title: Senior Service Technician
   title-url: http://www.pcpro.com.au
   date: Jul 2009 - Jun 2010
-  subtitle: CSC - Western Power
+  subtitle: PC Pro Wanneroo
   tags:
-    - tag: travel
-    - tag: night shifts
-    - tag: project work
+    - tag: Virus removal
+    - tag: Hardware diagnostics
+    - tag: Data recovery
+    - tag: PC repair
+    - tag: Software troubleshooting
   timeline-side: right
 
 - title: University of Western Australia
